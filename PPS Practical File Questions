@@ -42,6 +42,22 @@ Ex: 153 = (1 * 1 * 1) + (5 * 5 * 5) + (3 * 3 * 3)
 25.	Write a program to find if the entered number is prime or not. 
 26.	 Write a program to print Fibonacci series till any entered number. For example the number entered is 50 then the series should be 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, if the entered number is 200 then the series should be 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144.
 27.	Write a program to enter the size of pattern and produce the following pattern for example if entered size is 5.
-![pattern for 27th question](https://github.com/Kuljit23/PPS/blob/main/27.png)
+![Description of image](https://github.com/Kuljit23/PPS/raw/main/27.png)
+28 .Write a program to enter the size of pattern and produce the following pattern for example if entered size is 5.
+![Description of image](https://github.com/Kuljit23/PPS/blob/main/28.png)
+29.	Write a program to enter the size of pattern and produce the following pattern for example if entered size is 5.
+
+30.	Write a program to enter the size of pattern and produce the following pattern for example if entered size is 5.
+
+31.	Write a program to enter the size of pattern and produce the following pattern using only two for loops for example if entered size is 5.
+
+32. Write a function power(a, b), to calculate the value of a raised to b using a function with no argument and no return type. Note: without using inbulit function.
+33. Write a program to calculate the average of five numbers using a function with an argument and no return type.
+34. Write a program to calculate the area of the square using a function with argument and with return type.
+35. Write a program to calculate the number of digits of a number using a function with no argument and a return type.
+36. Write a program to add 100 to a number taken from a user to demonstrate the concept of call by value.
+37. Write a program to add 100 to a number taken from a user to demonstrate the concept of call by reference.
+
+
  
 
