@@ -56,7 +56,16 @@ Ex: 153 = (1 * 1 * 1) + (5 * 5 * 5) + (3 * 3 * 3)
 34. Write a program to calculate the area of the square using a function with argument and with return type.
 35. Write a program to calculate the number of digits of a number using a function with no argument and a return type.
 36. Write a program to add 100 to a number taken from a user to demonstrate the concept of call by value.
-37. Write a program to add 100 to a number taken from a user to demonstrate the concept of call by reference.
+37. Write a function that receives marks obtained by a student in 3 subjects and returns the average and percentage of these marks. 
+Call this function from main( ) and print the results in main( ). Hint: Use call by reference to return multiple values.
+38. Write a recursive function to obtain the running sum of first 25 natural numbers.
+39. A restaurant needs a program that can calculate the total bill for customers. If a customer orders only one item, the program should calculate the bill with a default tax of 5%. If the customer orders multiple items, the tax rate should be specified manually.
+
+Hint : Write overloaded functions:
+One function should calculate the bill for one item with a default tax of 5%.
+Another function should calculate the bill for two items where the tax rate is provided by the user. Define both functions using function overloading and default arguments where appropriate.
+40.
+
 
 
  
