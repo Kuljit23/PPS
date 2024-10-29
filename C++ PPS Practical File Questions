@@ -58,14 +58,23 @@ Ex: 153 = (1 * 1 * 1) + (5 * 5 * 5) + (3 * 3 * 3)
 36. Write a program to add 100 to a number taken from a user to demonstrate the concept of call by value.
 37. Write a function that receives marks obtained by a student in 3 subjects and returns the average and percentage of these marks. 
 Call this function from main( ) and print the results in main( ). Hint: Use call by reference to return multiple values.
-38. Write a recursive function to obtain the running sum of first 25 natural numbers.
+38. Write a recursive function to obtain the running sum of first 'n' natural numbers.
 39. A restaurant needs a program that can calculate the total bill for customers. If a customer orders only one item, the program should calculate the bill with a default tax of 5%. If the customer orders multiple items, the tax rate should be specified manually.
 
 Hint : Write overloaded functions:
 One function should calculate the bill for one item with a default tax of 5%.
 Another function should calculate the bill for two items where the tax rate is provided by the user. Define both functions using function overloading and default arguments where appropriate.
-40.
-
+40. A school wants to manage exam grades for a class using an array of grades. The program should allow the user to:
+	a. Display all grades
+	b. Count how many students passed (grade >= 50)
+	c. Count how many students failed (grade < 50)
+	d. Calculate the class average
+	e. Display the highest grade
+	f. Display lowest grade
+	g. Write a program that:
+Write a program that stores grades in an array.Has functions to display grades, count passes, count fails, and calculate the average. Uses a switch statement to let the user select an operation. 
+Hint: declare the array globally.
+Use int grades[] = {78, 45, 90, 67, 55, 38, 84, 69, 92, 31};
 
 
  
