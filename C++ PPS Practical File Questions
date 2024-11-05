@@ -75,6 +75,9 @@ Another function should calculate the bill for two items where the tax rate is p
 Write a program that stores grades in an array.Has functions to display grades, count passes, count fails, and calculate the average. Uses a switch statement to let the user select an operation. 
 Hint: declare the array globally.
 Use int grades[] = {78, 45, 90, 67, 55, 38, 84, 69, 92, 31};
+41. Write a program to search a number 'x' from an array of 'n' elements.
+42. Write a program to display sum and multiplication of two m*n matrices. 
+Note: Make sure to add the appropriate conditions
 
 
  
